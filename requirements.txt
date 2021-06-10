@@ -1,4 +1,4 @@
 Pillow==6.2.1
-django==2.2.7
+django==2.2.24
 django-ckeditor==5.8.0
 mysql-connector-python==8.0.18
